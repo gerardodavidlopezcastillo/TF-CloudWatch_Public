@@ -1,5 +1,5 @@
 ---
-description: Create CloudWatch Alarms for ASG, ALB, Synthetics, CIS Alarams. This repository provides the configuration necessary to create alarms in AWS CloudWatch for various resources, including Autoscaling Groups (ASG), Application Load Balancers (ALB), and Center for Internet Security (CIS) alarms. Additionally, it implements a Heart Beat Monitor using AWS CloudWatch Synthetics. Ideal for efficiently monitoring and managing your AWS cloud infrastructure.
+description: Create CloudWatch Alarms for ASG, ALB, Synthetics, CIS Alarams. In this repository, you will find files and detailed guides for creating alarms in AWS CloudWatch for your cloud resources. The setup includes creating alarms for Auto Scaling Groups (ASG) that scale in response to CPU utilization, alarms for Application Load Balancers (ALB) that alert on 4xx errors in traffic, and CIS (Center for Internet Security) alarms that help adhere to best security practices. Additionally, a Heart Beat Monitor is implemented using AWS CloudWatch Synthetics, allowing you to monitor the availability and response of your critical applications.
 ---
 # CloudWatch + ALB + Autoscaling with Launch Templates
 
